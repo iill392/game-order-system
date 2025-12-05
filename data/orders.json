@@ -17,8 +17,9 @@
     "userServer": "Q区",
     "orderTitle": "高级装备礼包",
     "spec": "基础版(1件)",
-    "status": "pending",
-    "timestamp": "2025-12-05T18:55:05.184Z"
+    "status": "approved",
+    "timestamp": "2025-12-05T18:55:05.184Z",
+    "updatedAt": "2025-12-05T18:55:31.747Z"
   },
   {
     "id": "order-1764960914717",
