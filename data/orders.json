@@ -63,8 +63,9 @@
     "orderTitle": "高级装备礼包",
     "spec": "标准版(3件)",
     "amount": "25.00",
-    "status": "pending",
-    "timestamp": "2025-12-05T19:24:48.731Z"
+    "status": "approved",
+    "timestamp": "2025-12-05T19:24:48.731Z",
+    "updatedAt": "2025-12-05T22:30:45.922Z"
   },
   {
     "id": "order-1764963005707",
