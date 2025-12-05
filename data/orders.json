@@ -90,5 +90,17 @@
     "status": "approved",
     "timestamp": "2025-12-05T22:30:18.070Z",
     "updatedAt": "2025-12-05T22:30:40.634Z"
+  },
+  {
+    "id": "order-1764973862525",
+    "userId": "user-1764962672851",
+    "userName": "11",
+    "userServer": "Q区",
+    "orderTitle": "稀有皮肤抽奖",
+    "spec": "传说皮肤",
+    "price": 50,
+    "originalPrice": 80,
+    "status": "pending",
+    "timestamp": "2025-12-05T22:31:02.525Z"
   }
 ]
