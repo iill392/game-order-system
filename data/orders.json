@@ -162,5 +162,17 @@
     "originalPrice": 35,
     "status": "pending",
     "timestamp": "2025-12-05T23:30:50.701Z"
+  },
+  {
+    "id": "order-1764977566514",
+    "userId": "user-1764958289413",
+    "userName": "123",
+    "userServer": "V区",
+    "orderTitle": "高级装备礼包",
+    "spec": "基础版(1件)",
+    "price": 10,
+    "originalPrice": 15,
+    "status": "pending",
+    "timestamp": "2025-12-05T23:32:46.514Z"
   }
 ]
