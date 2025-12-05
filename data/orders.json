@@ -38,7 +38,9 @@
     "userServer": "Q区",
     "orderTitle": "时装抽奖",
     "spec": "传说时装",
-    "status": "pending",
-    "timestamp": "2025-12-05T18:55:22.508Z"
+    "status": "rejected",
+    "timestamp": "2025-12-05T18:55:22.508Z",
+    "reason": "信息不符合要求",
+    "updatedAt": "2025-12-05T18:55:41.522Z"
   }
 ]
