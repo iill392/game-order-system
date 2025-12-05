@@ -114,5 +114,17 @@
     "originalPrice": 60,
     "status": "pending",
     "timestamp": "2025-12-05T22:32:16.277Z"
+  },
+  {
+    "id": "order-1764973962277",
+    "userId": "user-1764962672851",
+    "userName": "11",
+    "userServer": "Q区",
+    "orderTitle": "稀有皮肤抽奖",
+    "spec": "稀有皮肤",
+    "price": 20,
+    "originalPrice": 30,
+    "status": "pending",
+    "timestamp": "2025-12-05T22:32:42.277Z"
   }
 ]
