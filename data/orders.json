@@ -245,7 +245,8 @@
     "spec": "基础版(1件)",
     "price": 10,
     "originalPrice": 15,
-    "status": "pending",
-    "timestamp": "2025-12-06T03:43:45.035Z"
+    "status": "approved",
+    "timestamp": "2025-12-06T03:43:45.035Z",
+    "updatedAt": "2025-12-06T03:49:34.775Z"
   }
 ]
