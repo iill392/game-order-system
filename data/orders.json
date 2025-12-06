@@ -249,5 +249,17 @@
     "status": "approved",
     "timestamp": "2025-12-06T03:43:45.035Z",
     "updatedAt": "2025-12-06T03:49:34.775Z"
+  },
+  {
+    "id": "order-1764996823220",
+    "userId": "user-1764962672851",
+    "userName": "11",
+    "userServer": "Q区",
+    "orderTitle": "传世武器转盘",
+    "spec": "立即下单(需加客服微信抽奖)",
+    "price": 1,
+    "originalPrice": 15,
+    "status": "pending",
+    "timestamp": "2025-12-06T04:53:43.220Z"
   }
 ]
