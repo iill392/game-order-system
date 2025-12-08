@@ -261,8 +261,9 @@
     "spec": "立即下单(需加客服微信抽奖)",
     "price": 1,
     "originalPrice": 15,
-    "status": "pending",
-    "timestamp": "2025-12-06T04:53:43.220Z"
+    "status": "approved",
+    "timestamp": "2025-12-06T04:53:43.220Z",
+    "updatedAt": "2025-12-08T16:14:03.385Z"
   },
   {
     "id": "order-1764999645866",
