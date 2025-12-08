@@ -296,8 +296,9 @@
     "spec": "保200万【送7套+随机金+祝福语】",
     "price": 16.9,
     "originalPrice": 25,
-    "status": "pending",
-    "timestamp": "2025-12-08T14:26:40.857Z"
+    "status": "approved",
+    "timestamp": "2025-12-08T14:26:40.857Z",
+    "updatedAt": "2025-12-08T16:13:30.167Z"
   },
   {
     "id": "order-1765206236526",
