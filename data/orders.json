@@ -392,7 +392,8 @@
     "spec": "一保一【送7套+随机金】",
     "price": 29.9,
     "originalPrice": 12,
-    "status": "pending",
-    "timestamp": "2025-12-08T16:12:13.388Z"
+    "status": "approved",
+    "timestamp": "2025-12-08T16:12:13.388Z",
+    "updatedAt": "2025-12-08T16:12:31.522Z"
   }
 ]
