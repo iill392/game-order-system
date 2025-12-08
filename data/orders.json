@@ -166,8 +166,9 @@
     "spec": "标准版(3件)",
     "price": 25,
     "originalPrice": 35,
-    "status": "pending",
-    "timestamp": "2025-12-05T23:30:50.701Z"
+    "status": "approved",
+    "timestamp": "2025-12-05T23:30:50.701Z",
+    "updatedAt": "2025-12-08T16:15:01.812Z"
   },
   {
     "id": "order-1764977566514",
