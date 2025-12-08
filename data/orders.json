@@ -126,8 +126,9 @@
     "spec": "稀有皮肤",
     "price": 20,
     "originalPrice": 30,
-    "status": "pending",
-    "timestamp": "2025-12-05T22:32:42.277Z"
+    "status": "approved",
+    "timestamp": "2025-12-05T22:32:42.277Z",
+    "updatedAt": "2025-12-08T16:14:46.444Z"
   },
   {
     "id": "order-1764975382246",
