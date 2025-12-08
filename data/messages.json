@@ -74,5 +74,15 @@
     "content": "123",
     "timestamp": "2025-12-08T15:04:25.935Z",
     "status": "unread"
+  },
+  {
+    "id": "msg-1765207326685",
+    "userId": "user-1765207272238",
+    "userName": "123456",
+    "userServer": "QQ区",
+    "type": "user",
+    "content": "怎么卖的",
+    "timestamp": "2025-12-08T15:22:06.685Z",
+    "status": "unread"
   }
 ]
