@@ -83,6 +83,19 @@
     "type": "user",
     "content": "怎么卖的",
     "timestamp": "2025-12-08T15:22:06.685Z",
-    "status": "unread"
+    "status": "replied",
+    "reply": "11",
+    "replyTime": "2025-12-08T15:23:12.984Z"
+  },
+  {
+    "id": "msg-reply-1765207392984",
+    "userId": "user-1765207272238",
+    "userName": "123456",
+    "userServer": "QQ区",
+    "type": "admin",
+    "content": "11",
+    "timestamp": "2025-12-08T15:23:12.984Z",
+    "status": "read",
+    "relatedMessageId": "msg-1765207326685"
   }
 ]
