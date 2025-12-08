@@ -106,7 +106,18 @@
     "type": "user",
     "content": "11",
     "timestamp": "2025-12-08T15:56:23.485Z",
-    "status": "unread",
+    "status": "replied",
     "replies": []
+  },
+  {
+    "id": "msg-reply-1765209404313",
+    "userId": "user-1764952516136",
+    "userName": "11",
+    "userServer": "Q区",
+    "type": "admin",
+    "content": "123",
+    "timestamp": "2025-12-08T15:56:44.313Z",
+    "status": "read",
+    "relatedMessageId": "msg-1765209383485"
   }
 ]
