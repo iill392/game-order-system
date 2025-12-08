@@ -100,8 +100,9 @@
     "spec": "传说皮肤",
     "price": 50,
     "originalPrice": 80,
-    "status": "pending",
-    "timestamp": "2025-12-05T22:31:02.525Z"
+    "status": "approved",
+    "timestamp": "2025-12-05T22:31:02.525Z",
+    "updatedAt": "2025-12-08T16:12:45.871Z"
   },
   {
     "id": "order-1764973936277",
