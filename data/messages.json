@@ -7,7 +7,9 @@
     "type": "user",
     "content": "123",
     "timestamp": "2025-12-08T14:57:33.301Z",
-    "status": "unread"
+    "status": "replied",
+    "reply": "123",
+    "replyTime": "2025-12-08T14:57:58.229Z"
   },
   {
     "id": "msg-1765205855533",
@@ -18,5 +20,16 @@
     "content": "123",
     "timestamp": "2025-12-08T14:57:35.533Z",
     "status": "unread"
+  },
+  {
+    "id": "msg-reply-1765205878229",
+    "userId": "user-1764952516136",
+    "userName": "11",
+    "userServer": "Q区",
+    "type": "admin",
+    "content": "123",
+    "timestamp": "2025-12-08T14:57:58.229Z",
+    "status": "read",
+    "relatedMessageId": "msg-1765205853301"
   }
 ]
