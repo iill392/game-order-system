@@ -138,8 +138,10 @@
     "spec": "豪华版(5件)",
     "price": 45,
     "originalPrice": 60,
-    "status": "pending",
-    "timestamp": "2025-12-05T22:56:22.246Z"
+    "status": "rejected",
+    "timestamp": "2025-12-05T22:56:22.246Z",
+    "reason": "信息不符合要求",
+    "updatedAt": "2025-12-08T16:14:13.646Z"
   },
   {
     "id": "order-1764975569054",
