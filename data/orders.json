@@ -320,8 +320,9 @@
     "spec": "立即下单(需加客服微信抽奖)",
     "price": 1,
     "originalPrice": 15,
-    "status": "pending",
-    "timestamp": "2025-12-08T15:04:08.859Z"
+    "status": "approved",
+    "timestamp": "2025-12-08T15:04:08.859Z",
+    "updatedAt": "2025-12-08T16:13:16.369Z"
   },
   {
     "id": "order-1765207301057",
@@ -347,7 +348,7 @@
     "originalPrice": 15,
     "status": "approved",
     "timestamp": "2025-12-08T16:11:24.123Z",
-    "updatedAt": "2025-12-08T16:13:11.867Z"
+    "updatedAt": "2025-12-08T16:13:05.952Z"
   },
   {
     "id": "order-1765210295685",
