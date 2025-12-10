@@ -9,5 +9,16 @@
     "timestamp": "2025-12-09T21:24:32.532Z",
     "status": "unread",
     "replies": []
+  },
+  {
+    "id": "msg-1765378507646",
+    "userId": "user-1765210596004",
+    "userName": "11",
+    "userServer": "QQ区",
+    "type": "user",
+    "content": "111",
+    "timestamp": "2025-12-10T14:55:07.646Z",
+    "status": "unread",
+    "replies": []
   }
 ]
