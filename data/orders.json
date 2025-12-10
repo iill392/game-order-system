@@ -108,5 +108,18 @@
     "originalPrice": 100,
     "status": "pending",
     "timestamp": "2025-12-09T21:24:48.677Z"
+  },
+  {
+    "id": "order-lottery-1765382215157",
+    "userId": "user-1765210596004",
+    "userName": "11",
+    "userServer": "QQ区",
+    "orderTitle": "传世武器转盘抽奖",
+    "spec": "霸王枪",
+    "price": 1,
+    "originalPrice": 179,
+    "status": "pending",
+    "timestamp": "2025-12-10T15:56:55.157Z",
+    "isLottery": true
   }
 ]
