@@ -29,7 +29,18 @@
     "type": "user",
     "content": "11",
     "timestamp": "2025-12-10T15:15:16.492Z",
-    "status": "unread",
+    "status": "replied",
     "replies": []
+  },
+  {
+    "id": "msg-reply-1765468543917",
+    "userId": "user-1765210596004",
+    "userName": "11",
+    "userServer": "QQ区",
+    "type": "admin",
+    "content": "你好，我还不上班DVDvvvv额vv额v额好",
+    "timestamp": "2025-12-11T15:55:43.917Z",
+    "status": "read",
+    "relatedMessageId": "msg-1765379716492"
   }
 ]
