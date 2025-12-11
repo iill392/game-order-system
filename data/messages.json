@@ -42,5 +42,16 @@
     "timestamp": "2025-12-11T15:55:43.917Z",
     "status": "read",
     "relatedMessageId": "msg-1765379716492"
+  },
+  {
+    "id": "msg-reply-1765471580119",
+    "userId": "user-1765210596004",
+    "userName": "11",
+    "userServer": "QQ区",
+    "type": "admin",
+    "content": "123",
+    "timestamp": "2025-12-11T16:46:20.119Z",
+    "status": "read",
+    "relatedMessageId": "msg-1765379716492"
   }
 ]
