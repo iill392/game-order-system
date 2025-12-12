@@ -63,5 +63,16 @@
     "content": "123",
     "timestamp": "2025-12-12T15:37:33.179Z",
     "status": "unread"
+  },
+  {
+    "id": "msg-1765553908900",
+    "userId": "user-1765210596004",
+    "userName": "11",
+    "userServer": "QQ区",
+    "type": "user",
+    "content": "11",
+    "timestamp": "2025-12-12T15:38:28.900Z",
+    "status": "unread",
+    "replies": []
   }
 ]
