@@ -93,6 +93,6 @@
     "type": "admin",
     "content": "123456",
     "timestamp": "2025-12-12T16:07:01.313Z",
-    "status": "unread"
+    "status": "read"
   }
 ]
