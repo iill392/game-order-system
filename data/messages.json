@@ -74,5 +74,15 @@
     "timestamp": "2025-12-12T15:38:28.900Z",
     "status": "unread",
     "replies": []
+  },
+  {
+    "id": "msg-admin-1765555610549",
+    "userId": "user-1765210536789",
+    "userName": "11",
+    "userServer": "QQ区",
+    "type": "admin",
+    "content": "123456",
+    "timestamp": "2025-12-12T16:06:50.549Z",
+    "status": "unread"
   }
 ]
