@@ -125,7 +125,7 @@
     "type": "user",
     "content": "游龙",
     "timestamp": "2025-12-13T04:35:11.123Z",
-    "status": "unread",
+    "status": "replied",
     "replies": []
   },
   {
@@ -138,5 +138,16 @@
     "timestamp": "2025-12-13T04:36:27.204Z",
     "status": "unread",
     "relatedMessageId": "msg-1765600458861"
+  },
+  {
+    "id": "msg-reply-1765600611049",
+    "userId": "user-1765600480543",
+    "userName": "6",
+    "userServer": "微信区",
+    "type": "admin",
+    "content": "66",
+    "timestamp": "2025-12-13T04:36:51.049Z",
+    "status": "unread",
+    "relatedMessageId": "msg-1765600511123"
   }
 ]
