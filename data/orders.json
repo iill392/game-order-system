@@ -297,8 +297,9 @@
     "spec": "随机6级",
     "price": 1,
     "originalPrice": 4,
-    "status": "pending",
+    "status": "approved",
     "timestamp": "2025-12-13T06:27:18.756Z",
-    "isLottery": true
+    "isLottery": true,
+    "updatedAt": "2025-12-13T06:52:07.168Z"
   }
 ]
