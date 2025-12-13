@@ -285,8 +285,9 @@
     "spec": "保底3000万",
     "price": 2.5,
     "originalPrice": 300,
-    "status": "pending",
-    "timestamp": "2025-12-13T06:16:53.476Z"
+    "status": "approved",
+    "timestamp": "2025-12-13T06:16:53.476Z",
+    "updatedAt": "2025-12-13T07:02:33.703Z"
   },
   {
     "id": "order-lottery-1765607238756",
