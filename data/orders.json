@@ -236,5 +236,17 @@
     "timestamp": "2025-12-13T04:45:22.291Z",
     "reason": "未付款",
     "updatedAt": "2025-12-13T04:47:35.222Z"
+  },
+  {
+    "id": "order-1765602056848",
+    "userId": "user-1765602043170",
+    "userName": "准度难改你的心",
+    "userServer": "微信区",
+    "orderTitle": "0.5元保底1000万【仅剩10单】",
+    "spec": "保底1000万",
+    "price": 0.5,
+    "originalPrice": 30,
+    "status": "pending",
+    "timestamp": "2025-12-13T05:00:56.848Z"
   }
 ]
