@@ -232,7 +232,9 @@
     "spec": "保底1000万",
     "price": 0.5,
     "originalPrice": 30,
-    "status": "pending",
-    "timestamp": "2025-12-13T04:45:22.291Z"
+    "status": "rejected",
+    "timestamp": "2025-12-13T04:45:22.291Z",
+    "reason": "未付款",
+    "updatedAt": "2025-12-13T04:47:35.222Z"
   }
 ]
