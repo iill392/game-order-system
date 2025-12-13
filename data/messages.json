@@ -116,5 +116,16 @@
     "timestamp": "2025-12-13T04:34:18.861Z",
     "status": "unread",
     "replies": []
+  },
+  {
+    "id": "msg-1765600511123",
+    "userId": "user-1765600480543",
+    "userName": "6",
+    "userServer": "微信区",
+    "type": "user",
+    "content": "游龙",
+    "timestamp": "2025-12-13T04:35:11.123Z",
+    "status": "unread",
+    "replies": []
   }
 ]
