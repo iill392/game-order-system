@@ -233,7 +233,7 @@
     "type": "user",
     "content": "1",
     "timestamp": "2025-12-13T06:53:58.633Z",
-    "status": "unread",
+    "status": "replied",
     "replies": []
   },
   {
@@ -255,5 +255,16 @@
     "content": "您要吗？老板",
     "timestamp": "2025-12-13T06:55:21.678Z",
     "status": "unread"
+  },
+  {
+    "id": "msg-reply-1765608950688",
+    "userId": "user-1765606553650",
+    "userName": "呆萌小屿饱",
+    "userServer": "QQ区",
+    "type": "admin",
+    "content": "老板这边给您安排一个算命大礼包价值六元您要吗",
+    "timestamp": "2025-12-13T06:55:50.688Z",
+    "status": "unread",
+    "relatedMessageId": "msg-1765608838633"
   }
 ]
