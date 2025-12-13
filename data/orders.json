@@ -262,5 +262,18 @@
     "timestamp": "2025-12-13T05:11:03.709Z",
     "reason": "退款",
     "updatedAt": "2025-12-13T05:29:03.552Z"
+  },
+  {
+    "id": "order-lottery-1765606578038",
+    "userId": "user-1765606553650",
+    "userName": "呆萌小屿饱",
+    "userServer": "QQ区",
+    "orderTitle": "传世武器转盘抽奖",
+    "spec": "随机卓越枪",
+    "price": 1,
+    "originalPrice": 20,
+    "status": "pending",
+    "timestamp": "2025-12-13T06:16:18.038Z",
+    "isLottery": true
   }
 ]
