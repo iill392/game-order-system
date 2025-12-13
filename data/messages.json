@@ -224,5 +224,16 @@
     "timestamp": "2025-12-13T05:48:40.385Z",
     "status": "unread",
     "replies": []
+  },
+  {
+    "id": "msg-1765608838633",
+    "userId": "user-1765606553650",
+    "userName": "呆萌小屿饱",
+    "userServer": "QQ区",
+    "type": "user",
+    "content": "1",
+    "timestamp": "2025-12-13T06:53:58.633Z",
+    "status": "unread",
+    "replies": []
   }
 ]
