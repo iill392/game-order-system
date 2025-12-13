@@ -244,7 +244,7 @@
     "type": "admin",
     "content": "老板这边给您赠送一个算命的大礼包",
     "timestamp": "2025-12-13T06:54:21.053Z",
-    "status": "unread"
+    "status": "read"
   },
   {
     "id": "msg-admin-1765608921678",
@@ -254,7 +254,7 @@
     "type": "admin",
     "content": "您要吗？老板",
     "timestamp": "2025-12-13T06:55:21.678Z",
-    "status": "unread"
+    "status": "read"
   },
   {
     "id": "msg-reply-1765608950688",
@@ -264,7 +264,7 @@
     "type": "admin",
     "content": "老板这边给您安排一个算命大礼包价值六元您要吗",
     "timestamp": "2025-12-13T06:55:50.688Z",
-    "status": "unread",
+    "status": "read",
     "relatedMessageId": "msg-1765608838633"
   }
 ]
