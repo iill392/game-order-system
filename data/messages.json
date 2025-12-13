@@ -202,5 +202,16 @@
     "timestamp": "2025-12-13T05:46:43.891Z",
     "status": "unread",
     "replies": []
+  },
+  {
+    "id": "msg-1765604810155",
+    "userId": "user-1765600972297",
+    "userName": "追猎神琪弟",
+    "userServer": "微信区",
+    "type": "user",
+    "content": "人呢",
+    "timestamp": "2025-12-13T05:46:50.155Z",
+    "status": "unread",
+    "replies": []
   }
 ]
