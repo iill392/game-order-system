@@ -171,5 +171,15 @@
     "timestamp": "2025-12-13T04:45:06.411Z",
     "status": "unread",
     "replies": []
+  },
+  {
+    "id": "msg-admin-1765602062457",
+    "userId": "user-1765601324134",
+    "userName": "梵星不醒",
+    "userServer": "QQ区",
+    "type": "admin",
+    "content": "你好",
+    "timestamp": "2025-12-13T05:01:02.457Z",
+    "status": "unread"
   }
 ]
