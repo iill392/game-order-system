@@ -114,7 +114,7 @@
     "type": "user",
     "content": "游龙",
     "timestamp": "2025-12-13T04:34:18.861Z",
-    "status": "unread",
+    "status": "replied",
     "replies": []
   },
   {
@@ -127,5 +127,16 @@
     "timestamp": "2025-12-13T04:35:11.123Z",
     "status": "unread",
     "replies": []
+  },
+  {
+    "id": "msg-reply-1765600587204",
+    "userId": "user-1765600361701",
+    "userName": "狡猾的大天",
+    "userServer": "微信区",
+    "type": "admin",
+    "content": "好",
+    "timestamp": "2025-12-13T04:36:27.204Z",
+    "status": "unread",
+    "relatedMessageId": "msg-1765600458861"
   }
 ]
