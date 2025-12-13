@@ -220,5 +220,17 @@
     "status": "approved",
     "timestamp": "2025-12-13T04:20:50.913Z",
     "updatedAt": "2025-12-13T04:38:02.592Z"
+  },
+  {
+    "id": "order-1765601122291",
+    "userId": "user-1765600972297",
+    "userName": "追猎神琪弟",
+    "userServer": "微信区",
+    "orderTitle": "0.5元保底1000万【仅剩10单】",
+    "spec": "保底1000万",
+    "price": 0.5,
+    "originalPrice": 30,
+    "status": "pending",
+    "timestamp": "2025-12-13T04:45:22.291Z"
   }
 ]
