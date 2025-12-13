@@ -166,8 +166,9 @@
     "spec": "保底1000万",
     "price": 0.5,
     "originalPrice": 30,
-    "status": "pending",
-    "timestamp": "2025-12-12T15:36:42.251Z"
+    "status": "approved",
+    "timestamp": "2025-12-12T15:36:42.251Z",
+    "updatedAt": "2025-12-13T04:46:36.299Z"
   },
   {
     "id": "order-lottery-1765555556295",
