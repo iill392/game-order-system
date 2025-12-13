@@ -105,5 +105,16 @@
     "timestamp": "2025-12-13T04:34:10.243Z",
     "status": "unread",
     "replies": []
+  },
+  {
+    "id": "msg-1765600458861",
+    "userId": "user-1765600361701",
+    "userName": "狡猾的大天",
+    "userServer": "微信区",
+    "type": "user",
+    "content": "游龙",
+    "timestamp": "2025-12-13T04:34:18.861Z",
+    "status": "unread",
+    "replies": []
   }
 ]
