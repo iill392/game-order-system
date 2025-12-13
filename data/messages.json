@@ -181,5 +181,15 @@
     "content": "你好",
     "timestamp": "2025-12-13T05:01:02.457Z",
     "status": "unread"
+  },
+  {
+    "id": "msg-admin-1765602164023",
+    "userId": "user-1765602043170",
+    "userName": "准度难改你的心",
+    "userServer": "微信区",
+    "type": "admin",
+    "content": "你好，加微信了吗",
+    "timestamp": "2025-12-13T05:02:44.023Z",
+    "status": "unread"
   }
 ]
