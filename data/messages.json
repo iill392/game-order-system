@@ -332,5 +332,16 @@
     "timestamp": "2025-12-14T06:17:57.067Z",
     "status": "unread",
     "replies": []
+  },
+  {
+    "id": "msg-1765693172263",
+    "userId": "user-1765673584278",
+    "userName": "屮忍立",
+    "userServer": "微信区",
+    "type": "user",
+    "content": "算命的是什么东西啊",
+    "timestamp": "2025-12-14T06:19:32.263Z",
+    "status": "unread",
+    "replies": []
   }
 ]
