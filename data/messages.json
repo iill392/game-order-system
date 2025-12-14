@@ -297,7 +297,18 @@
     "type": "user",
     "content": "人呢？",
     "timestamp": "2025-12-14T04:06:20.050Z",
-    "status": "unread",
+    "status": "replied",
     "replies": []
+  },
+  {
+    "id": "msg-reply-1765687773515",
+    "userId": "user-1765673584278",
+    "userName": "屮忍立",
+    "userServer": "微信区",
+    "type": "admin",
+    "content": "666",
+    "timestamp": "2025-12-14T04:49:33.515Z",
+    "status": "unread",
+    "relatedMessageId": "msg-1765685180050"
   }
 ]
