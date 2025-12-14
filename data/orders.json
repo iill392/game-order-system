@@ -305,5 +305,18 @@
     "timestamp": "2025-12-13T06:27:18.756Z",
     "isLottery": true,
     "updatedAt": "2025-12-13T06:52:07.168Z"
+  },
+  {
+    "id": "order-lottery-1765672449455",
+    "userId": "user-1765210596004",
+    "userName": "11",
+    "userServer": "QQ区",
+    "orderTitle": "传世武器转盘抽奖",
+    "spec": "随机金枪",
+    "price": 1,
+    "originalPrice": 56,
+    "status": "pending",
+    "timestamp": "2025-12-14T00:34:09.455Z",
+    "isLottery": true
   }
 ]
