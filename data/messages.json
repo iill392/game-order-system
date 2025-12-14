@@ -321,5 +321,16 @@
     "timestamp": "2025-12-14T05:32:29.634Z",
     "status": "unread",
     "replies": []
+  },
+  {
+    "id": "msg-1765693077067",
+    "userId": "user-1765672701578",
+    "userName": "123",
+    "userServer": "QQ区",
+    "type": "user",
+    "content": "11",
+    "timestamp": "2025-12-14T06:17:57.067Z",
+    "status": "unread",
+    "replies": []
   }
 ]
