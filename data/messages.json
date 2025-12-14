@@ -310,5 +310,16 @@
     "timestamp": "2025-12-14T04:49:33.515Z",
     "status": "read",
     "relatedMessageId": "msg-1765685180050"
+  },
+  {
+    "id": "msg-1765690349634",
+    "userId": "user-1765687056481",
+    "userName": "狡猾的大天",
+    "userServer": "微信区",
+    "type": "user",
+    "content": "发刀啊",
+    "timestamp": "2025-12-14T05:32:29.634Z",
+    "status": "unread",
+    "replies": []
   }
 ]
