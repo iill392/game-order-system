@@ -341,7 +341,18 @@
     "type": "user",
     "content": "算命的是什么东西啊",
     "timestamp": "2025-12-14T06:19:32.263Z",
-    "status": "unread",
+    "status": "replied",
     "replies": []
+  },
+  {
+    "id": "msg-reply-1765693269642",
+    "userId": "user-1765673584278",
+    "userName": "屮忍立",
+    "userServer": "微信区",
+    "type": "admin",
+    "content": "算你的命，需要提供出生日期和生肖",
+    "timestamp": "2025-12-14T06:21:09.642Z",
+    "status": "unread",
+    "relatedMessageId": "msg-1765693172263"
   }
 ]
