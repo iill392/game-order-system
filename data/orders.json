@@ -445,7 +445,8 @@
     "spec": "二保一【保200万+转盘】",
     "price": 5.9,
     "originalPrice": 10,
-    "status": "pending",
-    "timestamp": "2025-12-18T15:52:52.846Z"
+    "status": "approved",
+    "timestamp": "2025-12-18T15:52:52.846Z",
+    "updatedAt": "2025-12-18T15:53:26.920Z"
   }
 ]
