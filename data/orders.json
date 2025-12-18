@@ -372,5 +372,17 @@
     "status": "approved",
     "timestamp": "2025-12-14T03:56:23.931Z",
     "updatedAt": "2025-12-14T08:31:51.696Z"
+  },
+  {
+    "id": "order-1766068649007",
+    "userId": "user-1765210596004",
+    "userName": "11",
+    "userServer": "QQ区",
+    "orderTitle": "0.5元保底1000万【仅剩10单】",
+    "spec": "保底2000万",
+    "price": 1.89,
+    "originalPrice": 150,
+    "status": "pending",
+    "timestamp": "2025-12-18T14:37:29.007Z"
   }
 ]
