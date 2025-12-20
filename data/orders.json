@@ -461,7 +461,8 @@
     "spec": "三保一【保300万+转盘*2】",
     "price": 7.9,
     "originalPrice": 15,
-    "status": "pending",
-    "timestamp": "2025-12-18T16:06:54.110Z"
+    "status": "approved",
+    "timestamp": "2025-12-18T16:06:54.110Z",
+    "updatedAt": "2025-12-20T03:44:25.082Z"
   }
 ]
