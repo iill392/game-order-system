@@ -502,8 +502,10 @@
     "spec": "七头",
     "price": 1,
     "originalPrice": 9,
-    "status": "pending",
+    "status": "rejected",
     "timestamp": "2025-12-27T06:09:27.228Z",
-    "isLottery": true
+    "isLottery": true,
+    "reason": "信息不符合要求",
+    "updatedAt": "2025-12-27T12:20:37.398Z"
   }
 ]
