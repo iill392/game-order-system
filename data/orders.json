@@ -467,5 +467,17 @@
     "status": "approved",
     "timestamp": "2025-12-18T16:06:54.110Z",
     "updatedAt": "2025-12-20T03:44:25.082Z"
+  },
+  {
+    "id": "order-1766804240856",
+    "userId": "user-1766804107775",
+    "userName": "123",
+    "userServer": "QQ区",
+    "orderTitle": "赌金单",
+    "spec": "保400~1000万+7套+随机金*2+抽奖",
+    "price": 19.9,
+    "originalPrice": 160,
+    "status": "pending",
+    "timestamp": "2025-12-27T02:57:20.856Z"
   }
 ]
