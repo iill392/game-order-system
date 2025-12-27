@@ -477,8 +477,9 @@
     "spec": "保400~1000万+7套+随机金*2+抽奖",
     "price": 19.9,
     "originalPrice": 160,
-    "status": "pending",
-    "timestamp": "2025-12-27T02:57:20.856Z"
+    "status": "approved",
+    "timestamp": "2025-12-27T02:57:20.856Z",
+    "updatedAt": "2025-12-27T12:20:48.620Z"
   },
   {
     "id": "order-lottery-1766814234830",
