@@ -479,5 +479,18 @@
     "originalPrice": 160,
     "status": "pending",
     "timestamp": "2025-12-27T02:57:20.856Z"
+  },
+  {
+    "id": "order-lottery-1766814234830",
+    "userId": "user-1766812776492",
+    "userName": "123",
+    "userServer": "QQ区",
+    "orderTitle": "传世武器转盘抽奖",
+    "spec": "随机6级",
+    "price": 1,
+    "originalPrice": 4,
+    "status": "pending",
+    "timestamp": "2025-12-27T05:43:54.831Z",
+    "isLottery": true
   }
 ]
